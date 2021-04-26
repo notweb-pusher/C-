@@ -1,6 +1,6 @@
 // Zero counter in factorial
 //Due to the facr that every 2nd number is div. by 2 and only every 5th is div. by 5 the amount of twos is greater
-=> As a result, it is enough to count 5.
+//=> As a result, it is enough to count 5.
 
 #include <iostream>
 
